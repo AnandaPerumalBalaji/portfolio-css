@@ -1,0 +1,162 @@
+body {
+    margin: 0px;
+}
+
+#vibe {
+    position: absolute;
+    top: 50px;
+    left: 550px;
+}
+
+p {
+    font-family: 'Ubuntu', sans-serif;
+    margin: 0px;
+    /* width: 50%; */
+    color: white;
+    text-align: justify;
+}
+
+.hw {
+    font-family: 'Sacramento', cursive;
+    color: #10A19D;
+    font-size: 100px;
+    position: absolute;
+    top: 20px;
+    left: 350px;
+}
+
+.moniker {
+    font-family: 'Sacramento', cursive;
+    color: white;
+    font-size: 50px;
+    position: absolute;
+    top: 150px;
+    left: 650px;
+}
+
+.top-container {
+    background-color: #540375;
+    height: 330px;
+    margin: 0px;
+}
+
+.redsq {
+    background-color: #10A19D;
+    height: 200px;
+    width: 497px;
+    position: absolute;
+    top: 60px;
+    left: 560px;
+    display: inline-block;
+}
+
+.greensq {
+    /* background-color: #CCFF33; */
+    background-color: #FF7000;
+    height: 200px;
+    width: 497px;
+    position: absolute;
+    top: 70px;
+    left: 570px;
+    display: inline-block;    
+}
+
+.bluesq {
+    background-color: #FFBF00;
+    height: 200px;
+    width: 497px;
+    position: absolute;
+    top: 80px;
+    left: 580px;
+    display: inline-block;    
+}
+
+.middle-container {
+    /* background-color: #FF7000; */
+    margin: 0px;
+    /* height: 10px; */
+    /* width: 50%; */
+}
+
+.bottom-container {
+    /* background-color: #810CA8; */
+    height: 100px;
+}
+
+.artform {
+    background-color: #FF7000;
+    padding: 50px;
+}
+
+.explore {
+    background-color: #10A19D;
+    padding: 50px;
+}
+
+.team {
+    background-color: #FF7000;
+    padding: 50px;
+}
+
+strong {
+    /* color: #540375; */
+    font-size: 20px;
+    font-style: italic;
+}
+
+.artform-text {
+    position: relative;
+    left: 700px;
+    width: 40%;
+}
+
+#artform {
+    height: 300px;
+    position: absolute;
+    top: 280px;
+    margin: 20px auto;
+}
+
+.explore-text {
+    padding: 20px;
+    width: 50%;
+}
+
+#explore {
+    height: 500px;
+    position: absolute;
+    top: 500px;
+    left: 900px;
+    
+}
+
+#team {
+    height: 500px;
+    position: absolute;
+    top: 800px;
+
+}
+
+.team-text {
+    width: 40%;
+    position: relative;
+    left: 400px;
+}
+
+.footer {
+    /* height: 100px; */
+    background-color: #540375;
+    text-align: center;
+    padding: 10px;
+}
+
+#footer-text {
+    padding: 5px auto 15px;
+    margin-left: 710px;
+}
+
+.footer-img {
+    height: 25px;
+    padding: 10px 10px 5px;
+    
+}
